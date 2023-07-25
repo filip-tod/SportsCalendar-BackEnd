@@ -1,0 +1,312 @@
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.WebApi.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.WebApi.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.WebApi.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\csc.exe
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\csc.exe.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\csc.rsp
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\csi.exe
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\csi.exe.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\csi.rsp
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\System.Memory.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\vbc.exe
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\vbc.rsp
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.TeamFoundation.Common.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Common.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Model.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ModelCommon.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Repository.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.RepositoryCommon.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Service.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ServiceCommon.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.Buffers.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.Numerics.Vectors.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.Web.Cors.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Npgsql.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.Threading.Channels.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Common.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ModelCommon.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Model.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.RepositoryCommon.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.RepositoryCommon.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Repository.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Repository.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ServiceCommon.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Service.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Service.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.TeamFoundation.Common.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Npgsql.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.Threading.Channels.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\obj\Debug\SportCalendar.WebApi.csproj.AssemblyReference.cache
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\obj\Debug\SportCalendar.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\obj\Debug\SportCalendar.WebApi.csproj.CopyComplete
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\obj\Debug\SportCalendar.WebApi.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\obj\Debug\SportCalendar.WebApi.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Owin.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Common.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ModelCommon.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Model.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ServiceCommon.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Options.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.ComponentModel.Annotations.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.IO.Pipelines.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Options.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.WebApi\bin\System.IO.Pipelines.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.WebApi.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.WebApi.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.WebApi.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\csc.exe
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\csc.exe.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\csc.rsp
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\csi.exe
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\csi.exe.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\csi.rsp
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\System.Memory.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\vbc.exe
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\vbc.exe.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\vbc.rsp
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Options.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Primitives.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Logging.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Net.Http.Headers.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Cors.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Security.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.TeamFoundation.Common.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.VisualStudio.Services.Common.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.VisualStudio.Services.WebApi.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Owin.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Common.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Model.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ModelCommon.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Repository.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.RepositoryCommon.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Service.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ServiceCommon.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.Buffers.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.ComponentModel.Annotations.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.IO.Pipelines.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.Numerics.Vectors.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.Threading.Tasks.Extensions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.Web.Cors.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.Web.Http.Cors.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Npgsql.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Bcl.HashCode.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.Threading.Channels.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Common.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Common.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ModelCommon.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ModelCommon.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Model.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Model.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.RepositoryCommon.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.RepositoryCommon.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Repository.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Repository.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ServiceCommon.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.ServiceCommon.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Service.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\SportCalendar.Service.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Options.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Primitives.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Logging.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Net.Http.Headers.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Cors.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Security.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.TeamFoundation.Common.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.VisualStudio.Services.Common.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.VisualStudio.Services.WebApi.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.IO.Pipelines.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.Web.Http.Cors.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Npgsql.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Bcl.HashCode.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\System.Threading.Channels.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\cs\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\de\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\es\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\fr\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\it\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\ja\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\ko\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\pl\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\ru\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\tr\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\de\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\es\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\it\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\bin\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\obj\Debug\SportCalendar.WebApi.csproj.AssemblyReference.cache
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\obj\Debug\SportCalendar.WebApi.csproj.CoreCompileInputs.cache
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\obj\Debug\SportCalendar.WebApi.csproj.CopyComplete
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\obj\Debug\SportCalendar.WebApi.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.WebApi\obj\Debug\SportCalendar.WebApi.pdb

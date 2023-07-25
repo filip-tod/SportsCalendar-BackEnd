@@ -1,0 +1,40 @@
+﻿using Autofac;
+using Autofac.Integration.WebApi;
+using SportCalendar.Repository;
+using SportCalendar.RepositoryCommon;
+using SportCalendar.Service;
+using SportCalendar.ServiceCommon;
+<<<<<<< HEAD
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Linq;
+=======
+>>>>>>> 9ab5904 (project setup)
+using System.Reflection;
+using System.Web.Http;
+
+namespace SportCalendar.WebApi.App_Start
+{
+    public class ContainerConfig
+    {
+        public static void ConfigureContainer()
+        {
+
+            var builder = new ContainerBuilder();
+            builder.RegisterType<SportRepository>().As<ISportRepository>();
+            builder.RegisterType<SportService>().As<ISportService>();
+            builder.RegisterApiControllers(Assembly.GetExecutingAssembly()).Where(t => t.Name.EndsWith("Controller"));
+
+            //registering interfaces for table User
+            builder.RegisterType<UserRepository>().As<IUserRepository>();
+            builder.RegisterType<UserService>().As<IUserService>();
+
+            // register interfaces
+
+            IContainer container = builder.Build();
+
+            GlobalConfiguration.Configuration.DependencyResolver = new AutofacWebApiDependencyResolver(container);
+        }
+    }
+}

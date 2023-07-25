@@ -1,0 +1,168 @@
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Repository.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Repository.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Repository.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Npgsql.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Common.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Model.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ModelCommon.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.RepositoryCommon.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ServiceCommon.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Buffers.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Memory.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.Permissions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Text.Json.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Threading.Channels.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Web.Cors.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Web.Http.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ModelCommon.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Common.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Model.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.RepositoryCommon.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.RepositoryCommon.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ServiceCommon.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\Npgsql.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Buffers.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Memory.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.Permissions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Text.Json.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Threading.Channels.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Web.Http.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\obj\Debug\SportCalendar.Repository.csproj.AssemblyReference.cache
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\obj\Debug\SportCalendar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\obj\Debug\SportCalendar.Repository.csproj.CopyComplete
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\obj\Debug\SportCalendar.Repository.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\obj\Debug\SportCalendar.Repository.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ModelCommon.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Common.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Model.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ServiceCommon.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Repository.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Repository.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Repository.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Npgsql.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Common.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Model.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ModelCommon.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.RepositoryCommon.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ServiceCommon.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Buffers.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Collections.Immutable.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.IO.Pipelines.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Memory.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Net.Http.Formatting.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Numerics.Vectors.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.AccessControl.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.Permissions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.Principal.Windows.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Text.Encodings.Web.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Text.Json.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Threading.Channels.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.ValueTuple.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Web.Cors.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Web.Http.Cors.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Web.Http.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ModelCommon.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ModelCommon.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Common.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Common.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Model.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.Model.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.RepositoryCommon.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.RepositoryCommon.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ServiceCommon.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\SportCalendar.ServiceCommon.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\Npgsql.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Buffers.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Collections.Immutable.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.IO.Pipelines.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Memory.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Net.Http.Formatting.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Numerics.Vectors.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.AccessControl.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.Permissions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Security.Principal.Windows.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Text.Encodings.Web.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Text.Json.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Threading.Channels.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.ValueTuple.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Web.Http.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\bin\Debug\System.Web.Http.Cors.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\obj\Debug\SportCalendar.Repository.csproj.AssemblyReference.cache
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\obj\Debug\SportCalendar.Repository.csproj.CoreCompileInputs.cache
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\obj\Debug\SportCalendar.Repository.csproj.CopyComplete
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\obj\Debug\SportCalendar.Repository.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.Repository\obj\Debug\SportCalendar.Repository.pdb

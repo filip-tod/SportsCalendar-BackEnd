@@ -1,0 +1,52 @@
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ServiceCommon.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ServiceCommon.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Common.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Model.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ModelCommon.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Web.Cors.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Web.Http.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ModelCommon.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Common.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Model.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Web.Http.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\obj\Debug\SportCalendar.ServiceCommon.csproj.AssemblyReference.cache
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\obj\Debug\SportCalendar.ServiceCommon.csproj.CoreCompileInputs.cache
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\obj\Debug\SportCalendar.ServiceCommon.csproj.CopyComplete
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\obj\Debug\SportCalendar.ServiceCommon.dll
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\obj\Debug\SportCalendar.ServiceCommon.pdb
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ServiceCommon.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Common.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Model.dll.config
+C:\Users\Bracurda\Documents\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ModelCommon.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ServiceCommon.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ServiceCommon.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ServiceCommon.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\Newtonsoft.Json.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Common.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Model.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Net.Http.Formatting.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Web.Cors.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Web.Http.Cors.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Web.Http.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ModelCommon.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Common.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Common.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Model.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.Model.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\Newtonsoft.Json.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Net.Http.Formatting.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Web.Http.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\System.Web.Http.Cors.xml
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ModelCommon.pdb
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\bin\Debug\SportCalendar.ModelCommon.dll.config
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\obj\Debug\SportCalendar.ServiceCommon.csproj.AssemblyReference.cache
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\obj\Debug\SportCalendar.ServiceCommon.csproj.CoreCompileInputs.cache
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\obj\Debug\SportCalendar.ServiceCommon.csproj.CopyComplete
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\obj\Debug\SportCalendar.ServiceCommon.dll
+D:\Mono\Spots Calendar\SportCalendar-BackEnd\SportCalendar\SportCalendar.ServiceCommon\obj\Debug\SportCalendar.ServiceCommon.pdb

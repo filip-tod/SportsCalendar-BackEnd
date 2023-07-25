@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SportCalendar.Service",
+    "\\SportCalendar.WebApi",
+    "\\SportCalendar.WebApi\\App_Start",
+    "\\SportCalendar.WebApi\\Controllers"
+  ],
+  "SelectedNode": "\\SportCalendar.Service\\ReviewService.cs",
+  "PreviewInSolutionExplorer": false
+}
